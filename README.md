@@ -2,7 +2,26 @@
 
 ## Reanalysis of Kirsh's 23-08-27 survey
 
-Steve Kirsh ran a survey and [advertised it on his substack](https://kirschsubstack.com/p/how-many-times-have-you-had-covid). Steve then published his analysis [and made the full dataset available here](https://airtable.com/appcRtVQP2AblbiWD/shrfWf7WyJsXS8cxV/tblTbdsvLJWU0dIWu).
+Steve Kirsh ran a survey on # of COVID infections and [advertised it on his substack](https://kirschsubstack.com/p/how-many-times-have-you-had-covid). Steve then published his analysis and [made the full dataset available](https://airtable.com/appcRtVQP2AblbiWD/shrfWf7WyJsXS8cxV/tblTbdsvLJWU0dIWu).
+
+Steve claimed vaxxed were over 2X more likely to get COVID than the unvaxxed.
+
+That was not a true claim for a couple reasons:
+
+He compares the "general vax compliance" numbers instead of the COVID vax compliance numbers. They are not equivalent but he uses the phrase "the vaccine" which muddles things. 
+
+He included "No Answer". "No Answer" doesn't mean "0".
+
+He compared the “No vaccines at all” vs. the “High” and “Very high” groups. He didn't compare “No vaccines at all” vs. any % vaccine
+
+General issues with survey interpretation as clarified below.
+
+
+After going through his data, the vaxxed (for COVID) and tested participants reported an avg of 1.1 cases while the unvaxxed and tested reported an avg of 1.2 cases. This has the vaxxed about 10% less likely to get COVID than the unvaxxed. 
+
+Even if you look at "any general vax" compaired to "no general vax", in participants who mentioned testing and not testing, the average # of cases was nearly identical. There was a difference in the averages of less than 0.01 cases...
+
+Participants who tested reported 1.6x more covid cases than untested. 
 
 ![plotly sankey kirsh v2](https://github.com/amaddeus/punished-kirsh/assets/65098643/0856ba2e-45b0-4301-a512-008e605e5bcd)
 
