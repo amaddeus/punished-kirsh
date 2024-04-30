@@ -1,6 +1,8 @@
 # punished-kirsh
 
-## Reanalysis of Kirsh's 23.08.27 survey
+## Reanalysis of Kirsh's 23-08-27 survey
+
+Steve Kirsh ran a survey and [advertised it on his substack](https://kirschsubstack.com/p/how-many-times-have-you-had-covid). Steve then published his analysis [and made the full dataset available here](https://airtable.com/appcRtVQP2AblbiWD/shrfWf7WyJsXS8cxV/tblTbdsvLJWU0dIWu).
 
 ![plotly sankey kirsh v2](https://github.com/amaddeus/punished-kirsh/assets/65098643/0856ba2e-45b0-4301-a512-008e605e5bcd)
 
@@ -149,17 +151,25 @@ I realized then after talking patients, peers and others at VA (other VA’s as 
 
 
 I appreciate the candor of some of the respondents, things like,
+
+
 >I'm an older broad
-and
+
+
 >We are both old & fat with the usual health issues.
-and
+
+
 >I took advantage of my husband bringing my food on a tray (haha)
-and
+
+
 >I can't be sure that I had covid because obviously I have no interest in being tested for it.  I did try to spread it to my doctor though.
-and
+
+
 >I was pregnant and could smell EVERYTHING. Then my husband and I got a weird cold and he couldn't move and I couldn't smell (which was a relief at the time).
-and
+
+
 >I have cold right now.  Should I get an experimental gene therapy injection and disregard all associated risks with the novel, inadequately tested mRNA injections?  I am struggling with this decision. NOT.
+
 
 What do we do with cases like 4087?:
 >I did test positive for Covid once on a home test BUT I am part of the EMBARK study at Cedar Sinai and those tests show that I have never had it.
