@@ -61,7 +61,7 @@ Who are the sorts of people who respond to a Steve Kirsh survey?
 2526 people mentioned testing. As 31 says:
 >I wouldn't have known I had Covid except for the fact that I had to test. I stopped testing after that.
 
-Asymptomatic covid
+## Asymptomatic covid
 
 Also 16:
 >Barely even knew I had it. Only aware cause those around me were sicker and testing
@@ -69,19 +69,19 @@ Also 16:
 61 is a little aggravating. 
 >I show I have covid antibodies but I never tested positive or ever felt sick like I had covid.  So I must have had it at some point, but never was aware I ever had it.
 
-That sure sounds like they had covid at least once if the antibody test is to be believed, but they didn’t mark that they had covid even a single time.
-
-281 is interestingly the reverse
->Might have had Covid in January 20 20. This was before it was announced. The symptoms were unlike anything I’ve ever had in my 74 years was tested for antibodies but had none for months later.
-
-They didn’t mark that they had covid even a single time even though they had the symptoms but the antibody test was negative.
+That sure sounds like they had covid at least once if the antibody test is to be believed, but they didn’t mark that they had covid even a single time. Antibody test +, No symptoms, Marked 0 cases
 
 76 is another reason not to believe this data:
 >As far as I’m concerned it’s just the seasonal flu. No big deal. I only tested due to the insistence of a paranoid roommate I had at the time.
 
 They marked having covid 4 times, but not only is it unclear if they ever had covid as opposed to the flu it is also unclear if the test result for covid was even positive.
 
-Symptomatic
+## Symptomatic
+
+281 says
+>Might have had Covid in January 20 20. This was before it was announced. The symptoms were unlike anything I’ve ever had in my 74 years was tested for antibodies but had none for months later.
+
+They didn’t mark that they had covid even a single time. They had the symptoms but the antibody test was negative. Antibody test -, Symptoms, Marked 0 cases
 
 108 said
 >Twice, I have had COVID like symptoms, but tested negative both times.
