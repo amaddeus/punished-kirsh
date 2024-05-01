@@ -133,11 +133,6 @@ Hard to interpret this
 >Lateral Flow test suggested I had C-19. Had mild symptoms - was in bed for 1.5 days, ‘fragile for about 5 days and then back at work on day 7. Took Quercetin, Zinc, high dose Vit C 
 Your question on General vaccines is not clear! I live in the UK am 65 years old and we have far fewer vaccines than in the USA … at least when I grew up in the 1960s! 
 
-1824 wrote they had c19 0 times and:
->Aug 2021 high fever, 104° nursed it myself with 5000-6000mg vit C and tylenol 800mg (hate tylenol but only way to get fever lower) but had faint pink blotches that traveled from neck to legs hmm. So 2 days after fever dropped went to Urgent care- covid test neg- I said could this be LYME?  Doc didn’t want fo beleve it. I argued finally he ordered bloodtest- It Was Lyme Disease.
-
-What the heck does this have to do about c19 and vaccines???????
-
 1905 wrote:
 >When I had a cold or was sick I never tested myself for Covid. I know I had it by symptoms.  At the time (2021) total loss of taste and smell. I feel too many people will reply they had Covid many times due to testing which we all know is not reliable, gives high false positives, and was used to usher in lockdowns and restrictions. People I know still run out and get a Covid test for a sniffle. And it will say Covid. And I think it is total bs 
 
@@ -155,9 +150,6 @@ I appreciate 2437 who has opposing priors to me. They say:
 2471 demonstrates what I worry leads to resentment and violence (emphasis mine):
 >Not sure if I had covid or not…No testing done, but may have had that or Influenza. Only was vaccinated so that I could travel and see grandkids. Would have never gotten vaccine if I could have avoided it.
 
-2478 is a comedian
->The swabs are the culprit  as my dogs dingle berries  tested positive ,,NOT buying into the depop,, stay away from all vaxers
-
 2626 answered that they are at 100% general vax compliance and said:
 >I do not get flu or vid shots. All else I have. I generally get a cold/flu maybe once a year. But sometimes not at all. And since the vid is bullcrap, anything I test for they will tell me I have the vid anyway, again which is bullcrap. I take care of myself, don't bother with hospitals, waste of time
 
@@ -170,26 +162,6 @@ I realized then after talking patients, peers and others at VA (other VA’s as 
 
 3436 validates my method decision in including people who didn’t test but who had people around them test positive:
 >Did not test, but others around me did test
-
-
-I appreciate the candor of some of the respondents, things like,
-
-
->I'm an older broad
-
-
->We are both old & fat with the usual health issues.
-
-
->I took advantage of my husband bringing my food on a tray (haha)
-
-
->I can't be sure that I had covid because obviously I have no interest in being tested for it.  I did try to spread it to my doctor though.
-
-
->I was pregnant and could smell EVERYTHING. Then my husband and I got a weird cold and he couldn't move and I couldn't smell (which was a relief at the time).
-
-
 
 What do we do with cases like 4087?:
 >I did test positive for Covid once on a home test BUT I am part of the EMBARK study at Cedar Sinai and those tests show that I have never had it.
@@ -227,8 +199,6 @@ I don't trust other vaccines anymore either, in case they try to sneak mRNA in t
 >I know many people who claim they had covid numerous times, but did they? The home tests were/are garbage and the PCR tests run so many cycles that they have numerous false positives as well.
 Did you read the NEJM article about COVID reinfection in Quatar? It raises the question, ""is it even possible to get covid more than once?"" I believe it is rare to get COVID more than once based on that publication. Is it possible to get COVID more than once? Maybe. Is it probable to get covid more than once? I don't believe so.
 
-5892 had a Borat sense of humor - NOT!!!
->I have cold right now.  Should I get an experimental gene therapy injection and disregard all associated risks with the novel, inadequately tested mRNA injections?  I am struggling with this decision. NOT.
 
 ## Will people regain trust in science/doctors?
 
@@ -237,3 +207,36 @@ Did you read the NEJM article about COVID reinfection in Quatar? It raises the q
 
 7106
 >When I finally got to see my Primary Care we almost came to blows. He belittled me, told me I was stupid, that he is a scientist and I should listen to him. He was lucky I could maintain my composure under his blistering verbal fusillade.
+
+## Funny Bin
+
+
+
+I appreciate the candor of some of the respondents, things like,
+
+
+>I'm an older broad
+
+
+>We are both old & fat with the usual health issues.
+
+
+>I took advantage of my husband bringing my food on a tray (haha)
+
+
+>I can't be sure that I had covid because obviously I have no interest in being tested for it.  I did try to spread it to my doctor though.
+
+
+>I was pregnant and could smell EVERYTHING. Then my husband and I got a weird cold and he couldn't move and I couldn't smell (which was a relief at the time).
+
+
+2478 is a comedian
+>The swabs are the culprit  as my dogs dingle berries  tested positive ,,NOT buying into the depop,, stay away from all vaxers
+
+5892 had a Borat sense of humor - NOT!!!
+>I have cold right now.  Should I get an experimental gene therapy injection and disregard all associated risks with the novel, inadequately tested mRNA injections?  I am struggling with this decision. NOT.
+
+1824 wrote they had c19 0 times and:
+>Aug 2021 high fever, 104° nursed it myself with 5000-6000mg vit C and tylenol 800mg (hate tylenol but only way to get fever lower) but had faint pink blotches that traveled from neck to legs hmm. So 2 days after fever dropped went to Urgent care- covid test neg- I said could this be LYME?  Doc didn’t want fo beleve it. I argued finally he ordered bloodtest- It Was Lyme Disease.
+
+What the heck does this have to do about c19 and vaccines???????
