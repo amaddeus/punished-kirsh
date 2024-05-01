@@ -230,6 +230,8 @@ Did you read the NEJM article about COVID reinfection in Quatar? It raises the q
 5892 had a Borat sense of humor - NOT!!!
 >I have cold right now.  Should I get an experimental gene therapy injection and disregard all associated risks with the novel, inadequately tested mRNA injections?  I am struggling with this decision. NOT.
 
+## Will people regain trust in science/doctors?
+
 5902
 >I got covid in 2020 - natural immunity been working since.  My now 17 year old son got Covid when Covid first started, had to stay home from school/hockey (even though he had a positive antibody test) for two weeks when I and his siblings got it in 2020.     My favorite story is that Xmas when everyone got Covid w/ the varient, he was on a bday party bus event when 50% of the bus (mostly all vaccinated) ALL got Covid days later/he did not...including his girlfriend he kissed that night (NOW THAT'S SCIENCE!).  
 
