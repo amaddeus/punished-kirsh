@@ -16,7 +16,6 @@ He compared the “No vaccines at all” vs. the “High” and “Very high” 
 
 General issues with survey interpretation as clarified below.
 
-
 After going through his data, the vaxxed (for COVID) and tested participants reported an avg of 1.1 cases while the unvaxxed and tested reported an avg of 1.2 cases. This has the vaxxed about 10% less likely to get COVID than the unvaxxed. 
 
 Even if you look at "any general vax" compaired to "no general vax", in participants who mentioned testing and not testing, the average # of cases was nearly identical. There was a difference in the averages of less than 0.01 cases...
@@ -45,6 +44,7 @@ What does “have you had COVID” mean?
 
 As 1538 puts it:
 >I cannot answer the 'how many times have I had COVID?' question meaningfully, as (a) the symptoms that 'define' it are too subjective and overlap with 'flu/colds too much, so I do not know how accurately to distinguish it and (b) the PCR/LFD tests have no scientific basis for them.  I had one period of illness Dec 2019 which had some unusual symptoms and 3 or 4 other cold-type illnesses which I cannot tell were 'COVID' or not.
+
 I cannot speak to the accuracy or lack thereof for the PCR/LFD.
 
 43 people removed for not recording how many times they had separate COVID injections. 
@@ -67,15 +67,18 @@ Also 16:
 >Barely even knew I had it. Only aware cause those around me were sicker and testing
 
 61 is a little aggravating. 
->I show I have covid antibodies but I never tested positive or ever felt sick like I had covid.  So I must have had it at some point, but never was aware I ever had it. 
+>I show I have covid antibodies but I never tested positive or ever felt sick like I had covid.  So I must have had it at some point, but never was aware I ever had it.
+
 That sure sounds like they had covid at least once if the antibody test is to be believed, but they didn’t mark that they had covid even a single time.
 
 281 is interestingly the reverse
 >Might have had Covid in January 20 20. This was before it was announced. The symptoms were unlike anything I’ve ever had in my 74 years was tested for antibodies but had none for months later.
-They didn’t mark that they had covid even a single time even though the antibody test was negative.
+
+They didn’t mark that they had covid even a single time even though they had the symptoms but the antibody test was negative.
 
 76 is another reason not to believe this data:
 >As far as I’m concerned it’s just the seasonal flu. No big deal. I only tested due to the insistence of a paranoid roommate I had at the time.
+
 They marked having covid 4 times, but not only is it unclear if they ever had covid as opposed to the flu it is also unclear if the test result for covid was even positive.
 
 Symptomatic
@@ -186,8 +189,6 @@ I appreciate the candor of some of the respondents, things like,
 
 >I was pregnant and could smell EVERYTHING. Then my husband and I got a weird cold and he couldn't move and I couldn't smell (which was a relief at the time).
 
-
->I have cold right now.  Should I get an experimental gene therapy injection and disregard all associated risks with the novel, inadequately tested mRNA injections?  I am struggling with this decision. NOT.
 
 
 What do we do with cases like 4087?:
