@@ -112,7 +112,7 @@ Hard to interpret this
 >I’m 54 years old, so I have had whatever childhood vaccines were typically given in that era/at that time. I haven’t taken the shingles vaccine or any of the la**test** recommendations for middle aged people. 
 
 1063 marked that they are .25 vaccinated but said:
-Not "vaccinated" growing up but unfortunately having joined the U.S. Army I received a whole slew of them upon enlistment (~1997) and received the 1st of a 5 shot Anthrax "vaccine" series while in Afghanistan…
+>Not "vaccinated" growing up but unfortunately having joined the U.S. Army I received a whole slew of them upon enlistment (~1997) and received the 1st of a 5 shot Anthrax "vaccine" series while in Afghanistan…
 
 393 kills me. Marked that they had c19 but says:
 >I've been exposed - spent weekends with - family and friends who tested positive for COVID yet never got it.
