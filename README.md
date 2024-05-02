@@ -11,6 +11,9 @@ Steve claims the vaxxed were over 2X more likely to get COVID than the unvaxxed.
 
 I think the CDC lied and people died too, and am happy to disagree with his other conclutions with his own "row-level" data survey results. I use his own data set and anecdotes from the particicants to show [Anecdotes often paint a more accurate picture than gamed ~~RCTs~~ suveys.](https://x.com/stkirsch/status/1722150927883514103)
 
+##DIFFERENT SECTION
+
+
 That was not a true claim for a couple reasons:
 
 He compares the "general vax compliance" numbers instead of the COVID vax compliance numbers. They are not equivalent but he uses the phrase "the vaccine" which muddles things. 
