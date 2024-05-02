@@ -1,15 +1,15 @@
-# punished-kirsh
+# punished-kirsch
 
-## Reanalysis of Kirsh's 23-08-27 survey
+## Reanalysis of kirsch's 23-08-27 survey
 
 ### Summary
 
-Steve Kirsh ran a survey on # of COVID infections [off his substack](https://kirschsubstack.com/p/how-many-times-have-you-had-covid). Steve then [published his analysis](https://kirschsubstack.com/p/vaccinated-people-are-over-2x-more) and [made the full dataset available](https://airtable.com/appcRtVQP2AblbiWD/shrfWf7WyJsXS8cxV/tblTbdsvLJWU0dIWu).
+Steve Kirsch ran a survey on # of COVID infections [off his substack](https://kirschsubstack.com/p/how-many-times-have-you-had-covid). Steve then [published his analysis](https://kirschsubstack.com/p/vaccinated-people-are-over-2x-more) and [made the full dataset available](https://airtable.com/appcRtVQP2AblbiWD/shrfWf7WyJsXS8cxV/tblTbdsvLJWU0dIWu).
 
 Steve claims the vaxxed were over 2X more likely to get COVID than the unvaxxed. He claims risk of hospitalization is the same regardless of vax. He says 
 >The CDC lied, people died. If you disagree, please post your row-level data survey results.
 
-I think the CDC lied and people died too, and am happy to disagree with his other conclutions with his own "row-level" data survey results. I use his own data set and anecdotes from the particicants to show [Anecdotes often paint a more accurate picture than gamed ~~RCTs~~ suveys.](https://x.com/stkirsch/status/1722150927883514103)
+I think the CDC lied and people died too, and am happy to disagree with his other conclutions with his own "row-level" data survey results. I use his own data set and anecdotes from the particicants to show [anecdotes often paint a more accurate picture than gamed ~~--RCTs--~~ suveys.](https://x.com/stkirsch/status/1722150927883514103)
 
 ## DIFFERENT SECTION
 
@@ -30,9 +30,9 @@ Even if you look at "any general vax" compaired to "no general vax", in particip
 
 Participants who tested reported 1.6x more covid cases than untested. 
 
-![plotly sankey kirsh v2](https://github.com/amaddeus/punished-kirsh/assets/65098643/0856ba2e-45b0-4301-a512-008e605e5bcd)
+![plotly sankey kirsch v2](https://github.com/amaddeus/punished-kirsch/assets/65098643/0856ba2e-45b0-4301-a512-008e605e5bcd)
 
-### Steve Kirsh did his analysis at 16736; so will I. 
+### Steve kirsch did his analysis at 16736; so will I. 
 
 He claimed
 >I am writing this at the 16,736 mark in the database. The database may be gamed after this.
@@ -67,7 +67,7 @@ Also, this is not a representative sample of the population.
 As 6597 puts it:
 >...I used to clean your carpets…
 
-Who are the sorts of people who respond to a Steve Kirsh survey?
+Who are the sorts of people who respond to a Steve kirsch survey?
 
 9954 people wrote notes.
 
