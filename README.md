@@ -2,9 +2,11 @@
 
 ## Reanalysis of Kirsh's 23-08-27 survey
 
+### Summary
+
 Steve Kirsh ran a survey on # of COVID infections and [advertised it on his substack](https://kirschsubstack.com/p/how-many-times-have-you-had-covid). Steve then published his analysis and [made the full dataset available](https://airtable.com/appcRtVQP2AblbiWD/shrfWf7WyJsXS8cxV/tblTbdsvLJWU0dIWu).
 
-Steve claimed vaxxed were over 2X more likely to get COVID than the unvaxxed.
+Steve claimed vaxxed were over 2X more likely to get COVID than the unvaxxed. He claimed risk of hospitalization is exactly the same regardless of vax.
 
 That was not a true claim for a couple reasons:
 
@@ -25,6 +27,11 @@ Participants who tested reported 1.6x more covid cases than untested.
 ![plotly sankey kirsh v2](https://github.com/amaddeus/punished-kirsh/assets/65098643/0856ba2e-45b0-4301-a512-008e605e5bcd)
 
 ### Steve Kirsh did his analysis at 16736; so will I. 
+
+He claimed
+>I am writing this at the 16,736 mark in the database. The database may be gamed after this.
+
+But his analysisactually starts at 16806
 
 To start at the beginning,
 
