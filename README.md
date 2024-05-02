@@ -4,9 +4,12 @@
 
 ### Summary
 
-Steve Kirsh ran a survey on # of COVID infections and [advertised it on his substack](https://kirschsubstack.com/p/how-many-times-have-you-had-covid). Steve then [published his analysis](https://kirschsubstack.com/p/vaccinated-people-are-over-2x-more) and [made the full dataset available](https://airtable.com/appcRtVQP2AblbiWD/shrfWf7WyJsXS8cxV/tblTbdsvLJWU0dIWu).
+Steve Kirsh ran a survey on # of COVID infections [off his substack](https://kirschsubstack.com/p/how-many-times-have-you-had-covid). Steve then [published his analysis](https://kirschsubstack.com/p/vaccinated-people-are-over-2x-more) and [made the full dataset available](https://airtable.com/appcRtVQP2AblbiWD/shrfWf7WyJsXS8cxV/tblTbdsvLJWU0dIWu).
 
-Steve claimed vaxxed were over 2X more likely to get COVID than the unvaxxed. He claimed risk of hospitalization is exactly the same regardless of vax.
+Steve claims the vaxxed were over 2X more likely to get COVID than the unvaxxed. He claims risk of hospitalization is the same regardless of vax. He says 
+>The CDC lied, people died. If you disagree, please post your row-level data survey results.
+
+I think the CDC lied and people died too, and am happy to disagree with his other conclutions with his own "row-level" data survey results. I use his own data set and anecdotes from the particicants to show [Anecdotes often paint a more accurate picture than gamed ~~RCTs~~ suveys.](https://x.com/stkirsch/status/1722150927883514103)
 
 That was not a true claim for a couple reasons:
 
