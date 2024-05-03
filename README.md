@@ -199,7 +199,7 @@ I appreciate the candor of some of the respondents, things like,
 
 What the heck does this have to do about c19 and vaccines???????
 
-# 3 Re-analysis
+# 3 - Re-analysis
 
 Steve compares the "general vax compliance" numbers instead of the COVID vax compliance numbers. They are not equivalent but he uses the phrase "the vaccine" which muddles things. 
 
