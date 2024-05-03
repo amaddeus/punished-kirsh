@@ -1,6 +1,6 @@
 # Reanalysis of Kirsch's 23-08-27 survey
 
-## 1 Summary
+## 1 - Summary
 
 Steve Kirsch ran a survey on # of COVID infections [off his substack](https://kirschsubstack.com/p/how-many-times-have-you-had-covid). Steve then [published his analysis](https://kirschsubstack.com/p/vaccinated-people-are-over-2x-more) and [made the full dataset available](https://airtable.com/appcRtVQP2AblbiWD/shrfWf7WyJsXS8cxV/tblTbdsvLJWU0dIWu).
 
@@ -9,8 +9,8 @@ Steve claims the vaxxed were over 2X more likely to get COVID than the unvaxxed.
 
 I think the CDC lied and people died too, and am happy to disagree with his other conclutions with his own "row-level" data survey results. I use his own data set and anecdotes from the particicants to show [anecdotes often paint a more accurate picture than gamed suveys.](https://x.com/stkirsch/status/1722150927883514103)
 
-## 2 Anecdotes
-## 2.1 Testing
+## 2 - Anecdotes
+## 2.1 - Testing
 
 What does “have you had COVID” mean? 
 
@@ -97,7 +97,7 @@ They didn’t mark that they had covid even a single time. They had the symptoms
 341 displays an issue with this my rather simple method of searching through the notes for instances of test as they come up from “latest”. Along with false positives like this, there are sure to be false negatives, such as if someone said they “verified through antigen” for example would not contain the word test. They also highlight a key shortcoming of the survey What does vax level even mean?:
 >I’m 54 years old, so I have had whatever childhood vaccines were typically given in that era/at that time. I haven’t taken the shingles vaccine or any of the la**test** recommendations for middle aged people. 
 
-## 2.4 "General vax level"
+## 2.3 - "General vax level"
 
 134 said they have had no vaccines at all and
 >Not sure what is meant by general vaccine compliance? I have had only the childhood vaccines available in the early 1960's. No flu, shingles, tetanus boosters then or now. 
@@ -122,8 +122,22 @@ Your question on General vaccines is not clear! I live in the UK am 65 years old
 >I know many people who claim they had covid numerous times, but did they? The home tests were/are garbage and the PCR tests run so many cycles that they have numerous false positives as well.
 Did you read the NEJM article about COVID reinfection in Quatar? It raises the question, ""is it even possible to get covid more than once?"" I believe it is rare to get COVID more than once based on that publication. Is it possible to get COVID more than once? Maybe. Is it probable to get covid more than once? I don't believe so.
 
+## 2.4 "Long COVID"
 
-## The indisputable harm, manifest
+2044 says they have **had covid 6 or more times** and writes that:
+>I **never tested positive**.  My first Covid was in November 2019.  Seattle.  When info first became available of HCQ being effective, my longtime Doctor refused to prescribe it.  Said they were saving it for those who needed it.  I was 67, lost my smell and taste and have had long Covid ever since.
+
+I did not consider this before; folks who have “long covid” may be *defining their # of c19 cases in a different way*.
+
+13272
+>I've never tested for c19 but first sickness 2022 than again Feb. 2023 I've never been the same health wise many many LC symptoms as I belong to covid care group /Long Covid Facebook groups.
+
+190 marked that they had covid once but said:
+>Only one positive covid test, but based on the gut dysbiosis after an infection months before, I may have had it then also.  Both times treated with IVM and other FLCCC protocol, but the November infection (tested positive at the ER b/c home test was negative so thought it was influenza) left me with long-covid which I continue to treat.
+
+Hard to interpret this
+
+## 2.5 The indisputable harm, manifest
 
 5902
 >I got covid in 2020 - natural immunity been working since.  My now 17 year old son got Covid when Covid first started, had to stay home from school/hockey (even though he had a positive antibody test) for two weeks when I and his siblings got it in 2020.     My favorite story is that Xmas when everyone got Covid w/ the varient, he was on a bday party bus event when 50% of the bus (mostly all vaccinated) ALL got Covid days later/he did not...including his girlfriend he kissed that night (NOW THAT'S SCIENCE!).  
@@ -146,7 +160,7 @@ I don't trust other vaccines anymore either, in case they try to sneak mRNA in t
 2471 demonstrates what I worry leads to resentment and violence:
 >Not sure if I had covid or not…No testing done, but may have had that or Influenza. **Only was vaccinated so that I could travel and see grandkids. Would have never gotten vaccine if I could have avoided it.**
 
-## Funny Bin
+## 2.6 Funny Bin
 
 5523 had some great insight:
 >In the past 3 years I’ve had 2 colds. Never tested for covid, but always stayed home and away from others in order not to spread whatever it is. **Who cares what it is, no one wants to be sick! It irritates me when people who are sick continue to go out in public and declare “it’s ok, I tested negative for covid”. Yeah, but you’re *still hacking, sneezing, and sniffling* all over the place. GO HOME!!**
@@ -184,21 +198,6 @@ I appreciate the candor of some of the respondents, things like,
 >Aug 2021 high fever, 104° nursed it myself with 5000-6000mg vit C and tylenol 800mg (hate tylenol but only way to get fever lower) but had faint pink blotches that traveled from neck to legs hmm. So 2 days after fever dropped went to Urgent care- covid test neg- I said could this be LYME?  Doc didn’t want fo beleve it. I argued finally he ordered bloodtest- It Was Lyme Disease.
 
 What the heck does this have to do about c19 and vaccines???????
-
-## 2.3 "Long COVID"
-
-2044 says they have **had covid 6 or more times** and writes that:
->I **never tested positive**.  My first Covid was in November 2019.  Seattle.  When info first became available of HCQ being effective, my longtime Doctor refused to prescribe it.  Said they were saving it for those who needed it.  I was 67, lost my smell and taste and have had long Covid ever since.
-
-I did not consider this before; folks who have “long covid” may be *defining their # of c19 cases in a different way*.
-
-13272
->I've never tested for c19 but first sickness 2022 than again Feb. 2023 I've never been the same health wise many many LC symptoms as I belong to covid care group /Long Covid Facebook groups.
-
-190 marked that they had covid once but said:
->Only one positive covid test, but based on the gut dysbiosis after an infection months before, I may have had it then also.  Both times treated with IVM and other FLCCC protocol, but the November infection (tested positive at the ER b/c home test was negative so thought it was influenza) left me with long-covid which I continue to treat.
-
-Hard to interpret this
 
 # 3 Re-analysis
 
